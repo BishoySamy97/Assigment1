@@ -1,4 +1,4 @@
-#Assigment1
+# Assignment 1
 
 A python script for encryption and decryption of Ceasar, Affine and Vigenere ciphers by reading input from input.txt and representing the output in output.txt file
 
